@@ -1,0 +1,54 @@
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Form1.resources
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\source\repos\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Form1.resources
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Form1.resources
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NXsi_qew2\Desktop\new\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.CopyComplete
+D:\new last\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+D:\new last\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+D:\new last\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+D:\new last\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.dll
+D:\new last\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.xml
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Form1.resources
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.CopyComplete
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+D:\new last\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Form1.resources
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\lenovo 330\Desktop\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
